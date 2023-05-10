@@ -1,0 +1,11 @@
+-> Every web designer project should start with UX part.
+-> Before focus about colors or typefaces we need to know the structure of the website and we need to know who we are designing for and this is where a project brief comes in very handy
+
+*) Project brief:
+    -> So first we will focus on UX design an we will talk with the client base on that we will create a project brief.
+    
+*) Key Takeaways:
+    1. Always start a web project with a brief.
+    2. In the brief, be clear about what you're making and who are you making it for.
+    3. Be as detailed as possible regarding the final content and include that in the brief.
+    4. The project brief will serve as a basis for the wireframe.
