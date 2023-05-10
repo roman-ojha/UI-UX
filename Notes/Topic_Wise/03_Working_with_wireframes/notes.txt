@@ -1,0 +1,10 @@
+*) Wireframes:
+    -> These are low fidelity versions of you final design.
+    -> like a Sketches.
+    -> It represent or it shows the final content of the project also it's structure.
+    -> A wireframe should be devoid of any intentional aesthetic decision like color or typography.
+    -> In wireframes we don't care about colors, typefaces, spacing, sizing.
+    -> Wireframe is purely representing the content and the structure of that content.
+    -> This comes under the UX part.
+    
+-> https://www.figma.com/file/Ak0JQMv65digqiASGnoLI0/Portfolio-Website?type=design&node-id=1-2&t=chAw7M5KBe7pXdOl-0
