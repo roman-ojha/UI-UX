@@ -1,0 +1,17 @@
+*) Web designer:
+	-> Refers to a person that is in charge of designing the front end of website or web application.
+	
+*) UX designer:
+	-> is in charge of creating or designing the front end of a website or web application from a user's perspective. that mean they need to understand what users want and what they need and based on that create a seamless experience
+	-> UX(User experience)
+	-> Ux include things like information architecture, user psychology, usability testing, content strategy, wireframes, interaction design and so on.
+	
+*) UI designer:
+	-> is also in charge of the frontend of the web project but covers aspects that that relate almost exclusively to the visual appearance of the project.
+	-> UI(User interface)
+	-> UI stands for user interface so it all about things like color, typography, spacing, sizing, shape and so on.
+	-> UI designer will responsible for taking the structure defined by the UX designers and dressing them up.
+	-> EX: shape of a button, how far apart elements?, how thick and thin the heading should be.
+	
+-> Both UX and UI design are 2 separate areas of specialization within web design.
+-> It's correct to say that you're a UX web designer or a UI web designer or both.
