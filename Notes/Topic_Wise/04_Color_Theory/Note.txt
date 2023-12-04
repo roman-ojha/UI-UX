@@ -1,0 +1,34 @@
+*) 3 main categories of colors:
+    1. Primary Colors
+        -> './01_Primary_Colors.png'
+        -> Primary colors are Read, Blue, Yellow
+        -> They are called primary because you can not mix any of the color to obtain them they are the building blocks from where every other color are created
+    2. Secondary Colors
+        -> Secondary color are obtained by equally mixing primary colors.
+        -> './02_Secondary_Colors.png'
+    3. Tertiary Colors(Intermediate Colors)
+        -> Are obtained by combining primary and secondary colors these are
+
+*) Color Terminology:
+    *> Hue:
+        -> './04_Hue.png'
+        -> represent the dominant color in a color family
+        -> It is the purest form of colors in family ex: color without any saturation, opacity etc...
+    *> Tint:
+        -> './05_Tint.png','./06_Tint.png'
+        -> When you add white to an specific color
+    *> Shade:
+        -> Mixing color with black
+        -> './07_Shade.png'
+    *> Tone:
+        -> Tone is when you mix a pure color with gray means black andy white.
+        -> './Tone.png'
+    *> Saturation:
+        -> Saturation refers to how rich and how dull the color is.
+        -> Whe are are talking about the purest Hue color we are talking about saturation 100%.
+        -> When we mix that color with gray then it is desaturated.
+    *> brightness:
+        -> tells you whether the color is close towards white on the scale or closer to black the scale.
+    *> Color temperature:
+        -> it basically tells us whether a color is warm or cold.
+        -> Cold colors are consider color like blue, green, purple etc..
