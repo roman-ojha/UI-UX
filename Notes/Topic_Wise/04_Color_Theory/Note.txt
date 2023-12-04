@@ -5,7 +5,7 @@
         -> They are called primary because you can not mix any of the color to obtain them they are the building blocks from where every other color are created
     2. Secondary Colors
         -> Secondary color are obtained by equally mixing primary colors.
-        -> './02_Secondary_Colors.png'
+        -> './02_Secondary_Colors.png', './02_Secondary_Colors_02.png'
     3. Tertiary Colors(Intermediate Colors)
         -> Are obtained by combining primary and secondary colors these are
 
@@ -32,3 +32,37 @@
     *> Color temperature:
         -> it basically tells us whether a color is warm or cold.
         -> Cold colors are consider color like blue, green, purple etc..
+        
+*) Color Models:
+    *> RGB:
+        -> RGB stands fro red, green and blue and it uses additive mixing of light to create different colors.
+        -> When overlapping red green and blue at full brightness we get white and this is how screen works.
+        -> When overlapping read, green and blue at 0 intensity means 0 brightness we will get black.
+        -> In RGB 255 is the max value & 0 is the minimum.
+        -> Code:
+            1. Red: 255, 0, 0
+            2. Green: 0, 255, 0
+            3. Blue: 0, 0, 255
+        -> If we want different color we can now mix these value.
+    *> CMYK:
+        -> CMYK stands for cyan, magenta, yellow and black and to create colors this model uses what's called subtractive mixing. It is used for printing, Not that important for UI.
+    *> HSB:
+        -> HSB stands for Hue, Saturation and Brightness. This uses a mix of these three attributes to create different colors.
+        1> Hue
+            -> Every Hue on the color wheel can be represented by a value from 0 to 360 degrees, ex: Red color is both 0 & 360 degrees.
+        2> Saturation:
+            -> This basically tells us how pure that color is.
+            -> Value from 0-100%
+            -> if it is 100 percent then it is going to be fully saturated.
+        3> Brightness:
+            -> './12_Brightness.png'
+            -> This represent how bright the color is.
+            -> value from 0-100%
+            -> on 100% it is fully towards white.
+            -> on 0% it is fully towards black.
+    *> HEX:
+        -> Hexadecimal format.
+        -> Most popular in web design.
+        -> This is the friendlier way for displaying RGB colors because the first two letter/number refer to red, the next two refer to green and the last two refer to blue.
+        -> #FFFFFF -> White(Red: FF, Green: FF, Red: FF)
+        -> #000000 -> Black
