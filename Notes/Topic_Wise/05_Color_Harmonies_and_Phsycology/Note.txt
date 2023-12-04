@@ -1,0 +1,20 @@
+*) Color Phycology:
+    -> Rea for passion and it's great for grabbing attention, represent energy, excitement.
+    -> Blue most used color on internet. It conveys trust, calm, peace, intelligent, security.
+    -> Yellow color of sun so bring joy and happiness, it can also convey warmth, energy. lot used in entertainment industry.
+    -> Green color of nature, represent health, wheal being, balanced fertility, safety. associate with brands from health industry.
+    -> Orange color of happiness, joy and confidence. it made from Red & Yellow so it borrows traits from those two like energy & Optimism. it said to be the color of communication.
+    -> Purple color for Luxury, royalty, wealth, sophistication.
+
+*) Color Harmonies:
+    -> Color Harmonies where we will consider color what can work together. 
+    -> Color harmonies allow you to create a color palette.
+    -> like if you pick a primary color and now another color in that case which color would match the harmony or the color palette of that color is important.
+    -> Create Color Plate using this tools:
+        -> https://color.adobe.com/create/color-wheel
+        -> https://mycolor.space
+        -> https://colorhunt.co/
+        -> https://colors.muz.li/
+        -> https://webgradients.com/
+    -> Demo: https://youtu.be/B-ytMSuwbf8?list=PL5sSYBuH9_fju0-9rhZ_s2b85gTW-Z5KV&t=3290
+    -> A complementary color palette will give you the most contract, while a monochromatic one will give you the least contrast.
