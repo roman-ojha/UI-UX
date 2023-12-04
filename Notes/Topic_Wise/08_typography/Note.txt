@@ -1,6 +1,11 @@
 *) Typography:
     -> Typography in web design refers to the art and technique of arranging type on a website. It involves the selection of typefaces, point size, line length, leading, tracking, kerning, color, and any element that can affect a design. Typography plays a fundamental role in web creation, including branding, visual design, user experience, user interface, content strategy, and more. The typography of a website can make or break its quality, just like its visual design, interactive features, and overall functionality.
     The challenges of web typography include understanding screen reading vs. print reading, choosing the right font family, and formatting text for readability. To choose the perfect font for your website, you should think about how you want to portray your brand, decide between serif or sans serif, see if your fonts pair well together, be mindful of font size, font weight, and line length, respect the role of visual hierarchy, invest in a design system, and get to know CSS stylesheets.
+
+    -> Start you typography process by defining the type scale, font weights and line heights.
+    *) Tools:
+        -> https://typescale.com/
+        -> https://archetypeapp.com/
     
     *) Where to get fonts:
         -> https://fonts.google.com/
@@ -21,5 +26,15 @@
             
     *) How to choose font size:
         -> for that we have type scales
+        -> TypeScale example: https://youtu.be/B-ytMSuwbf8?list=PL5sSYBuH9_fju0-9rhZ_s2b85gTW-Z5KV&t=5845
+
+    *) Different types of Serif fonts:
+        -> https://youtu.be/B-ytMSuwbf8?list=PL5sSYBuH9_fju0-9rhZ_s2b85gTW-Z5KV&t=5526
         
--> Demo for our project: https://youtu.be/B-ytMSuwbf8?list=PL5sSYBuH9_fju0-9rhZ_s2b85gTW-Z5KV&t=5473
+-> Demo for our project:
+    -> https://youtu.be/B-ytMSuwbf8?list=PL5sSYBuH9_fju0-9rhZ_s2b85gTW-Z5KV&t=5473
+    *> Typefaces
+        1. Brandon Grotesque (Sans-serif)
+            -> we will use this font for larger elements like heading etc...
+        2. Proxima-nova (Sans-serif)
+            -> we will use this font for smaller elements like the body text, captions, button, menu items and so on.
