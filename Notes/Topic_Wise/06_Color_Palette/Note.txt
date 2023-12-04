@@ -1,0 +1,12 @@
+*) Color palette
+    -> The group of colors that can work together.
+    -> When starting a design process, it's always easier to begin with the colors.
+    -> Create a palette for primary and secondary colors first, then move on the gray.
+    -> When creating a grays, mix in a bit of the primary color.
+
+*) Color Contrast:
+    -> Make cure that every color you're using for text or interactive element has enough contrast.
+    -> https://youtu.be/B-ytMSuwbf8?list=PL5sSYBuH9_fju0-9rhZ_s2b85gTW-Z5KV&t=4551
+    
+-> Demo for our project:
+    -> https://youtu.be/B-ytMSuwbf8?list=PL5sSYBuH9_fju0-9rhZ_s2b85gTW-Z5KV&t=3791
