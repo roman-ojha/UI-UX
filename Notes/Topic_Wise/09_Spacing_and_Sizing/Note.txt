@@ -1,0 +1,9 @@
+*) Spacing and Sizing in Web design:
+    -> This refer to how much space you should use inside and outside of the elements and how much they big or small needs to be.
+    -> For both spacing and sizing we can use like 8 point system:
+        -> In this system every dimension is actually the multiple of 8.
+        -> Ex: For Button we can use padding of 16px top & button and 32px of left & right.
+        -> We can use this system every where like margin & padding of the system, distance between elements, widths & height of elements or images.
+        -> We can read about this here: https://medium.com/swlh/the-comprehensive-8pt-grid-guide-aa16ff402179
+    -> Aligning and Sizing content using Grid: https://youtu.be/B-ytMSuwbf8?t=6509
+    -> Aligning and Sizing content using Guide in Figma: https://youtu.be/B-ytMSuwbf8?t=6671

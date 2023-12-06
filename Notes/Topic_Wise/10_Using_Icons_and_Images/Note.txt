@@ -1,0 +1,12 @@
+*) Icons:
+    -> Icon should be meaningful, it means that Icons should what the associated text says.
+        -> EX: './01_Button_with_Icon.png' Button which says 'Send Message' but Icons is not matching with the meaning of the text
+        -> But './02_Button_with_Icon.png' matching the icon with the meaning of button
+    -> You need to be consistent on adding same style of icons on the web page.
+        -> EX: './03_Icons.png' message icon is not matching with the outline of other icons
+        -> But './04_Icons.png' here it looks nice and consistent.
+        
+*) Images:
+    -> Try to use the meaningful images that matches the actual theme of the website.
+    -> Use stock photos sparingly and avoid the cheesy, over-used, clichee ones.
+    -> Whenever possible, use photos that are provided by the client. Keep it real.

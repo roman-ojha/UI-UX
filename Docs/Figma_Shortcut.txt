@@ -1,0 +1,2 @@
+*) Show/Hide Guide:
+    -> Shift + R
