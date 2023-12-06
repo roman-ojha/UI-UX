@@ -1,0 +1,12 @@
+*) Hero Area:
+    -> A hero is the area immediately bellow or next to the header because this is positioned above the fold, it's considered prime real-estate so it displays critical information like the brand offering, benefits for working with the brand and a call-to-action.
+    -> Ex:
+        -> https://stripe.com/
+        -> https://world.siteground.com/
+        -> https://elements.envato.com/
+        -> https://monday.com/
+        -> https://www.craft.do/
+        -> https://timelyapp.com/
+
+
+    -> Demo: https://youtu.be/B-ytMSuwbf8?t=9178

@@ -1,2 +1,27 @@
 *) Show/Hide Guide:
     -> Shift + R
+    
+*) Command palette
+    -> Ctrl + p
+    
+*) Get the distance between selected element to other element
+    -> Alt + Hover Other element
+    
+*) Select the required child element inside frame
+    -> Ctrl + Right Click
+
+*) Select multiple components:
+    -> Shift + Right click components
+
+*) Group Selected Element inside new Frame & Auto Layout:
+    -> Shift + A
+
+*) Move Selected Element:
+    -> Left
+    -> Right
+    -> Up
+    -> Down
+    -> Shift + Left
+    -> Shift + Right
+    -> Shift + Up
+    -> Shift + Down

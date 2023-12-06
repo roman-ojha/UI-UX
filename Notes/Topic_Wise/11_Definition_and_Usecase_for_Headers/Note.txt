@@ -1,0 +1,15 @@
+*) The Website Header:
+    -> A website header usually the top section of a webpage that contains the logo, navigation menu, a call-to-action and optionally a search form.
+    -> A header is highly customizable and can host other types of content.
+    -> Headers can also be vertical.
+    -> EX:
+        -> https://stripe.com/
+        -> https://www.adidas.com/us
+        -> https://dribbble.com/
+        -> https://kbdfans.com/
+        -> https://www.amazon.com/
+        -> https://elements.envato.com/
+        -> https://craiecraie.com/
+        -> https://irene-studio.com/en
+        
+    -> Demo: https://youtu.be/B-ytMSuwbf8?t=7899
