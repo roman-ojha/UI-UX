@@ -15,6 +15,9 @@
 
 *) Group Selected Element inside new Frame & Auto Layout:
     -> Shift + A
+    
+*) Group Selected Element inside Group frame:
+    -> Ctrl + g
 
 *) Move Selected Element:
     -> Left

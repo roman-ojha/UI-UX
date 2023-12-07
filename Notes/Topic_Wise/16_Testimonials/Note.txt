@@ -1,0 +1,7 @@
+*) Testimonials:
+    -> It is a nice thing that you customer have to say about your product/service/platform/business/brand.
+    -> Use testimonials to establish credibility with our client.
+    -> Never use fake testimonials even when you are starting out and you don't have any client. It's unethical & Illegal.
+    -> No testimonials is better then fake testimonials.
+    -> Demo: './06_Our_Testimonials.png', './07_Our_Testimonials.png' https://youtu.be/B-ytMSuwbf8?t=12709
+        -> Tips on width of the elements on page: https://youtu.be/B-ytMSuwbf8?t=13235
