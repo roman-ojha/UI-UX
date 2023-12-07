@@ -34,3 +34,13 @@
 
 *) Sample color from the figma design playground and use it as a background image of selected element:
     -> i
+
+
+*) Duplicate variables:
+    -> Shift + Enter
+
+*) Create new Figma file:
+    -> Ctrl + n
+
+*) Show/Hide Editor UI:
+    -> Ctrl + \

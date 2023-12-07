@@ -1,0 +1,7 @@
+*) Tabs:
+    -> A tab control is a UI element where content is separated into different panels, with only one panel visible at a time. The hidden panels can then be accessed by user interaction.
+    -> Tabs are used for displaying large amount of content in a relatively small area.
+    -> EX:
+        -> https://gtheimagineers.com/en.html
+        -> https://canalstreet.market/
+    -> Demo: https://youtu.be/B-ytMSuwbf8?t=13688
