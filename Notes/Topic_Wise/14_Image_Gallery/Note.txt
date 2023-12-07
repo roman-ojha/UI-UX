@@ -1,0 +1,10 @@
+*) The Image Gallery:
+    -> An image gallery is a way of displaying a collection of images while allowing users to see several items at once.
+    -> Image galleries are heavily used in online stores to show product variations or angles.
+    -> Galleries can also be lined to a slideshow that will display larger version of the images.
+    -> EX:
+        -> https://www.adidas.com/us/men-sale
+        -> https://grovemade.com/desk-pad-collection/
+        -> https://p9.moscow/en/
+
+    -> Demo: './01_Our_Image_Gallery.png'

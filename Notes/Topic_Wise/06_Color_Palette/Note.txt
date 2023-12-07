@@ -9,4 +9,4 @@
     -> https://youtu.be/B-ytMSuwbf8?list=PL5sSYBuH9_fju0-9rhZ_s2b85gTW-Z5KV&t=4551
     
 -> Demo for our project:
-    -> https://youtu.be/B-ytMSuwbf8?list=PL5sSYBuH9_fju0-9rhZ_s2b85gTW-Z5KV&t=3791
+    -> './01_Our_Color_Palette.png', https://youtu.be/B-ytMSuwbf8?list=PL5sSYBuH9_fju0-9rhZ_s2b85gTW-Z5KV&t=3791

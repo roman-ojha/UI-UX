@@ -1,0 +1,5 @@
+*) The Footer:
+    -> The website's footer is an area positioned at the bottom of every page on a website, right bellow the main content.
+    -> Footers usually contain information that improves the usability of the website.
+    -> Footer also display content that doesn't belong anywhere else, like copyright text, external links and sitemaps.
+    -> Demo: './06_Our_Footer.png', https://youtu.be/B-ytMSuwbf8?t=11878

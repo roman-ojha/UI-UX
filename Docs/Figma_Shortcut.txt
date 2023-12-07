@@ -25,3 +25,9 @@
     -> Shift + Right
     -> Shift + Up
     -> Shift + Down
+
+*) Duplicate Element:
+    -> Alt + Grab Element
+
+*) Sample color from the figma design playground and use it as a background image of selected element:
+    -> i

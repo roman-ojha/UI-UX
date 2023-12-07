@@ -32,7 +32,7 @@
         -> https://youtu.be/B-ytMSuwbf8?list=PL5sSYBuH9_fju0-9rhZ_s2b85gTW-Z5KV&t=5526
         
 -> Demo for our project:
-    -> https://youtu.be/B-ytMSuwbf8?list=PL5sSYBuH9_fju0-9rhZ_s2b85gTW-Z5KV&t=5473
+    -> './01_Our_Typography.png', https://youtu.be/B-ytMSuwbf8?list=PL5sSYBuH9_fju0-9rhZ_s2b85gTW-Z5KV&t=5473
     *> Typefaces
         1. Brandon Grotesque (Sans-serif)
             -> we will use this font for larger elements like heading etc...
